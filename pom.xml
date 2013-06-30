@@ -4,6 +4,7 @@
 	<artifactId>scord</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Scord</name>
+	<packaging>pom</packaging>
 
 	<properties>
 		<java.version>1.7</java.version>
